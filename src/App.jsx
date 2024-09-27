@@ -8,7 +8,7 @@ function App() {
   const [weatherData, setWeatherData] = useState(null)
 
   const [location, setLocation] = useState("")
-  const API_KEY = '52f0e5da9c2cba7b61bf9906f5b26ef4'
+  const API_KEY = 'your_key'
   // date
   const date = new Date()
   // formatted date
